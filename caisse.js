@@ -21,3 +21,6 @@ if(budget >= total){
 } else{
     console.log("budget insuffisant")
 }
+for(let i = 1; i <=5; i++){
+    console.log("Achat numero " +i)
+}
